@@ -8,3 +8,30 @@
        url('../fonts/abolition-regular-webfont.ttf') format('truetype');
 }
 
+.main-header{
+  padding-top: 170px;
+  background:linear-gradient(orange, transparent 90%),
+  linear-gradient(#fff, transparent 10%),
+  orange url('../img/mountains.jpg') no-repeat center;
+  background-size: cover;
+  height:850px;
+  text-align: center;
+}
+.arrow{
+  margin-top: 250px;
+  width:100px;
+  height:90px;
+}
+.title{
+  border-bottom: 1px solid;
+  color:white;
+}
+h1{
+  color:#fff;
+}
+.primary-content{
+  text-align: center;
+}
+.intro{
+  font-size: 1.6rem;
+}
